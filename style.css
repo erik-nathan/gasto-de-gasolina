@@ -1,0 +1,41 @@
+body{  
+    background: rgb(5, 26, 54);
+    font: normal 13pt Poppins;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.330);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#btn{
+    background-color: rgb(63, 75, 92);
+    color: aliceblue;
+    font: normal 10pt Poppins;
+    border-radius: 5px;
+    border: none;
+
+    width: 20vh;
+    height: 4vh;
+}
+
+#btn:hover{
+    background-color: rgb(187, 187, 187);
+    color: rgb(5, 26, 54);
+    cursor: pointer;
+}
