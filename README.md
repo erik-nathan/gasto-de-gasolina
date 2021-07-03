@@ -13,11 +13,6 @@
 
 ![image](https://user-images.githubusercontent.com/77215294/124369126-ef8cd780-dc3e-11eb-9b0d-46edb1c00aa8.png)
 
-
-<p align="center">
-  <img alt="creataccount" src="/UI Design/final.png" width="100%">
-</p>
-
 ## 🚀 | Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
